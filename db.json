@@ -1,0 +1,73 @@
+{
+    "tasks": [
+      {
+        "time": "12:00pm",
+        "title": "vue js",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa",
+        "duedate": "20-2-2023",
+        "status": "open",
+        "id": 10
+      },
+      {
+        "time": "12:00pm",
+        "title": "web component",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa",
+        "duedate": "20-2-2023",
+        "status": "open",
+        "id": 12
+      },
+      {
+        "id": 13,
+        "time": "12:00pm",
+        "title": "react",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa",
+        "duedate": "20-2-2023",
+        "tag": "",
+        "status": "open"
+      },
+      {
+        "id": 14,
+        "time": "12:00pm",
+        "title": "react",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa",
+        "duedate": "20-2-2023",
+        "tag": "",
+        "status": "open"
+      },
+      {
+        "id": 15,
+        "time": "12:00pm",
+        "title": "blockchain",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa",
+        "duedate": "20-2-2023",
+        "tag": "",
+        "status": "open"
+      },
+      {
+        "id": 16,
+        "time": "12:00pm",
+        "title": "solidity",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa",
+        "duedate": "20-2-2023",
+        "tag": "",
+        "status": "open"
+      },
+      {
+        "id": 17,
+        "time": "12:00pm",
+        "title": "WEB3.JS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa",
+        "duedate": "20-2-2023",
+        "tag": "",
+        "status": "open"
+      },
+      {
+        "time": "2/19/2023, 6:19:06 PM",
+        "title": "artifitial intelligence",
+        "description": "nkwfkenfknf4jfo4jo4",
+        "duedate": "2023-02-26",
+        "status": "Open",
+        "id": 18
+      }
+    ]
+  }
